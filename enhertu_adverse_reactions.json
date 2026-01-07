@@ -1,0 +1,10 @@
+[
+  ["System Organ Class","Frequency Category","Dose","Adverse Reaction"],
+  ["Infections and infestations","Very common","5.4 mg/kg","Upper respiratory tract infection"],
+  ["Infections and infestations","Very common","6.4 mg/kg","Upper respiratory tract infection"]
+  // ... (add all rows)
+]
+
+
+
+Initial commit of Enhertu adverse reaction data
